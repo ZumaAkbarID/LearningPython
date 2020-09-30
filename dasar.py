@@ -18,4 +18,4 @@ elif uang == total_harga :
     print('Silahkan ini ' + str(jumlah) + ' pensil Anda')
     print('Uang anda pas, Terima Kasih :)')
 else :
-    print('Oh, mohon maaf sepertinya uang anda kurang, harga belanja anda ' + str(total_harga))
+    print('Oh, mohon maaf sepertinya uang anda kurang, harga belanja anda ' + str(total_harga)) 
